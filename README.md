@@ -1,5 +1,7 @@
 # JapanCryptoInfo
 
+Last Updated : May 29, 2021
+
 List of crypto currency exchanges  
 
 View Full details from this spreadsheet: 　　
