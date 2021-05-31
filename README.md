@@ -2,7 +2,7 @@
 
 List of crypto currency exchanges  
 
-View Full details from this spreadsheet: 
+View Full details from this spreadsheet: 　　
 https://docs.google.com/spreadsheets/d/1c5NVZd0uXMJANfY8udE6QA71jgI6lgH1rNoqozCpUrI/edit?usp=sharing
 
 | Exchange Name                            |    Website|
