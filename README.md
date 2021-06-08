@@ -5,7 +5,7 @@ This  an experimental project to provide basic Japanese regulatory facts related
 
 Last Updated : May 29, 2021
 
-List of crypto currency exchanges  
+## List of lisenced crypto currency exchanges  
 
 View Full details from this spreadsheet: 　　
 https://docs.google.com/spreadsheets/d/1c5NVZd0uXMJANfY8udE6QA71jgI6lgH1rNoqozCpUrI/edit?usp=sharing
