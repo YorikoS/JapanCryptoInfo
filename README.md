@@ -40,40 +40,40 @@ https://docs.google.com/spreadsheets/d/1c5NVZd0uXMJANfY8udE6QA71jgI6lgH1rNoqozCp
 | Zaif                                       | [https://zaif.jp/?lang=en](https://zaif.jp/?lang=en)                             |
 | Sakura Exchange Bitcoin (former Xtheta)    | [https://sebc.co.jp/](https://sebc.co.jp/)                                       |
 
-##White list Tokens
+## White list Tokens
 
-BTC
-ETH
-BCH
-QASH
-XRP			
-ETC
-LTC
-MONA
-LSK
-BAT
-XEM
-XLM
-XTZ			
-BCC
-QTUM
-OMG
-XTZ
-ENJ			
-HT(Huobi)			
-TRX			
-FCT
-IOST
-OMG							
-LINK（LINE）			
-RYO(coban)					
-FSCC(fisco coin)
-NCXC(nexcoin)
-CICC(caica coin)
-ZAIF(zaif token)
-Zen
-CMS(comsa)
-XYM			
+BTC  
+ETH  
+BCH  
+XRP  
+ETC  
+LTC  
+MONA  
+LSK  
+BAT  
+XEM  
+XLM  
+XTZ	  		
+BCC  
+QTU  
+OMG  
+XTZ  
+ENJ	 		
+HT(Huobi)	  		
+TRX	 		
+FCT  
+IOST  
+OMG	  						
+LINK（LINE）  			
+RYO(coban)  			
+FSCC(fisco coin)  
+NCXC(nexcoin)  
+CICC(caica coin)  
+ZAIF(zaif token)  
+Zen  
+CMS(comsa)  
+XYM  
+QASH  
 
 ## Reading list
 This is a reading list to better understand Japanese crypto regulation.
