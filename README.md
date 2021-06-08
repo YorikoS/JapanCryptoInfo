@@ -1,5 +1,8 @@
 # JapanCryptoInfo
 
+## Motivation 
+This  an experimental project to provide basic Japanese regulatory facts related to cryptocurrency in English. The Japanese market is considered difficult to understand. The fact that there are very few English resources available is exacerbating the situation. The goal is to make the Japanese market less esoteric and more familiar for those who wish to learn more about the Japanese crypto ecosystem by providing basic facts. Any suggestion for updates or request for information is welcome as long as they are germane to the purpose of this project. 
+
 Last Updated : May 29, 2021
 
 List of crypto currency exchanges  
@@ -36,6 +39,41 @@ https://docs.google.com/spreadsheets/d/1c5NVZd0uXMJANfY8udE6QA71jgI6lgH1rNoqozCp
 | coinbook                                   | [https://www.coinbook.co.jp/](https://www.coinbook.co.jp/)                       |
 | Zaif                                       | [https://zaif.jp/?lang=en](https://zaif.jp/?lang=en)                             |
 | Sakura Exchange Bitcoin (former Xtheta)    | [https://sebc.co.jp/](https://sebc.co.jp/)                                       |
+
+##White list Tokens
+
+BTC
+ETH
+BCH
+QASH
+XRP			
+ETC
+LTC
+MONA
+LSK
+BAT
+XEM
+XLM
+XTZ			
+BCC
+QTUM
+OMG
+XTZ
+ENJ			
+HT(Huobi)			
+TRX			
+FCT
+IOST
+OMG							
+LINK（LINE）			
+RYO(coban)					
+FSCC(fisco coin)
+NCXC(nexcoin)
+CICC(caica coin)
+ZAIF(zaif token)
+Zen
+CMS(comsa)
+XYM			
 
 ## Reading list
 This is a reading list to better understand Japanese crypto regulation.
