@@ -53,19 +53,16 @@ LSK
 BAT  
 XEM  
 XLM  
-XTZ	  		
-BCC  
+XTZ  
 QTU  
 OMG  
-XTZ  
-ENJ	 		
-HT(Huobi)	  		
-TRX	 		
+ENJ  
+HT(Huobi)  
+TRX  
 FCT  
 IOST  
-OMG	  						
-LINK（LINE）  			
-RYO(coban)  			
+LINK（LINE)  
+RYO(coban)  
 FSCC(fisco coin)  
 NCXC(nexcoin)  
 CICC(caica coin)  
@@ -74,6 +71,7 @@ Zen
 CMS(comsa)  
 XYM  
 QASH  
+
 
 ## Reading list
 This is a reading list to better understand Japanese crypto regulation.
