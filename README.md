@@ -3,12 +3,12 @@
 ## Motivation 
 This  an experimental project to provide basic Japanese regulatory facts related to cryptocurrency in English. The Japanese market is considered difficult to understand. The fact that there are very few English resources available is exacerbating the situation. The goal is to make the Japanese market less esoteric and more familiar for those who wish to learn more about the Japanese crypto ecosystem by providing basic facts. Any suggestion for updates or request for information is welcome as long as they are germane to the purpose of this project. 
 
-Last Updated : May 29, 2021
-
 ## List of lisenced crypto currency exchanges  
 
 View Full details from this spreadsheet: 　　
 https://docs.google.com/spreadsheets/d/1c5NVZd0uXMJANfY8udE6QA71jgI6lgH1rNoqozCpUrI/edit?usp=sharing
+
+Last Updated : Jun 18, 2021
 
 | Exchange Name                            |    Website|
 | ------------------------------------------ | -------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@ https://docs.google.com/spreadsheets/d/1c5NVZd0uXMJANfY8udE6QA71jgI6lgH1rNoqozCp
 | LVC (LINE)                                 | [https://www.bitmax.me/?lang=en](https://www.bitmax.me/?lang=en)                 |
 | EXIA Digital Asset （Previously Last Roots） | [https://www.exia-da.jp/](https://www.exia-da.jp/)                               |
 | FXcoin                                     | [https://fxcoin.co.jp/](https://fxcoin.co.jp/)                                   |
-| OKcoin Jaoan                               | [https://www.okcoin.jp/](https://www.okcoin.jp/)                                 |
+| OKcoin Japan                               | [https://www.okcoin.jp/](https://www.okcoin.jp/)                                 |
 | Payward Asia                               | [https://www.kraken.com/ja-jp/](https://www.kraken.com/ja-jp/)                   |
 | CoinBest                                   | [https://www.coinbest.com/](https://www.coinbest.com/)                           |
 | Digial Asset Markets                       | [https://www.digiasset.co.jp/index.html](https://www.digiasset.co.jp/index.html) |
@@ -39,6 +39,10 @@ https://docs.google.com/spreadsheets/d/1c5NVZd0uXMJANfY8udE6QA71jgI6lgH1rNoqozCp
 | coinbook                                   | [https://www.coinbook.co.jp/](https://www.coinbook.co.jp/)                       |
 | Zaif                                       | [https://zaif.jp/?lang=en](https://zaif.jp/?lang=en)                             |
 | Sakura Exchange Bitcoin (former Xtheta)    | [https://sebc.co.jp/](https://sebc.co.jp/)                                       |
+| Tokyo Hash                                 |https://www.tokyohash.co.jp/                           |
+| Coinbase	                                 | https://www.coinbase.com/places/japan    |
+| Gaia	                                 |http://www.gaiacard.com/    |
+
 
 ## White list Tokens
 
