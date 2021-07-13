@@ -8,7 +8,7 @@ This  an experimental project to provide basic Japanese regulatory facts related
 View Full details from this spreadsheet: 　　
 https://docs.google.com/spreadsheets/d/1c5NVZd0uXMJANfY8udE6QA71jgI6lgH1rNoqozCpUrI/edit?usp=sharing
 
-Last Updated : Jun 18, 2021
+Last Updated : Jul 14, 2021
 
 | Exchange Name                            |    Website|
 | ------------------------------------------ | -------------------------------------------------------------------------------- |
@@ -42,7 +42,7 @@ Last Updated : Jun 18, 2021
 | Tokyo Hash                                 |https://www.tokyohash.co.jp/                           |
 | Coinbase	                                 | https://www.coinbase.com/places/japan    |
 | Gaia	                                 |http://www.gaiacard.com/    |
-
+| Crypto Garage                                 |https://cryptogarage.co.jp/  |
 
 ## White list Tokens
 
@@ -75,6 +75,9 @@ Zen
 CMS(comsa)  
 XYM  
 QASH  
+DOT
+L-BTC(liquid btc)
+ONT
 
 
 ## Reading list
