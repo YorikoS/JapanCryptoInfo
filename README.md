@@ -78,6 +78,7 @@ QASH
 DOT
 L-BTC(liquid btc)
 ONT
+ATOM
 
 
 ## Reading list
