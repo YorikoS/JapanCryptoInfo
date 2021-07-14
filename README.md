@@ -76,8 +76,8 @@ CMS(comsa)
 XYM  
 QASH  
 DOT
-L-BTC(liquid btc)
-ONT
+L-BTC(liquid btc)  
+ONT  
 ATOM
 
 
