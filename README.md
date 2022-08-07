@@ -13,7 +13,7 @@ Last Updated : Jul 14, 2021
 | Exchange Name                            |    Website|
 | ------------------------------------------ | -------------------------------------------------------------------------------- |
 | Money Partners                             | [https://www.moneypartners.co.jp/](https://www.moneypartners.co.jp/)             |
-| QUOINE                                     | [https://www.liquid.com/ja/](https://www.liquid.com/ja/)                         |
+| FTX Japan                                  | [https://ftx.com/jp](https://ftx.com/jp)                  　　　　　　　　　       |
 | bitFlyer                                   | [https://bitflyer.com/en-jp/](https://bitflyer.com/en-jp/)                       |
 | Bitbank                                    | [https://bitbank.cc/en](https://bitbank.cc/en)                                   |
 | SBI VC Trade                               | [https://www.sbivc.co.jp/](https://www.sbivc.co.jp/)                             |
@@ -22,14 +22,14 @@ Last Updated : Jul 14, 2021
 | BTCBOX                                     | [https://www.btcbox.co.jp/](https://www.btcbox.co.jp/)                           |
 | Bitpoint Japan                             | [https://www.bitpoint.co.jp/](https://www.bitpoint.co.jp/)                       |
 | DMM Bitcoin                                | [https://bitcoin.dmm.com/](https://bitcoin.dmm.com/)                             |
-| TaoTao                                     | [https://taotao-ex.com/](https://taotao-ex.com/)                                 |
+| SBI VC Trade                               | [https://www.sbivc.co.jp/](https://www.sbivc.co.jp/)                             |
 | Bitgate                                    | [https://www.bitgate.co.jp/](https://www.bitgate.co.jp/)                         |
-| BITOCEAN                                   | [http://www.bitocean-japan.com/](http://www.bitocean-japan.com/)                 |
+| CoinHub                                    | [https://coinhub.co.jp/coming-soon](https://coinhub.co.jp/coming-soon)           |
 | Coincheck                                  | [https://coincheck.com/](https://coincheck.com/)                                 |
 | Rakuten Wallet                             | [https://www.rakuten-wallet.co.jp/](https://www.rakuten-wallet.co.jp/)           |
 | Decurret                                   | [https://www.decurret.com/](https://www.decurret.com/)                           |
-| LVC (LINE)                                 | [https://www.bitmax.me/?lang=en](https://www.bitmax.me/?lang=en)                 |
-| EXIA Digital Asset （Previously Last Roots） | [https://www.exia-da.jp/](https://www.exia-da.jp/)                               |
+| Line Xenesis                               | [https://linexenesiscorp.com/en/](https://linexenesiscorp.com/en/)               |
+| EXIA Digital Asset （Previously Last Roots） | [https://www.exia-da.jp/](https://www.exia-da.jp/)                              |
 | FXcoin                                     | [https://fxcoin.co.jp/](https://fxcoin.co.jp/)                                   |
 | OKcoin Japan                               | [https://www.okcoin.jp/](https://www.okcoin.jp/)                                 |
 | Payward Asia                               | [https://www.kraken.com/ja-jp/](https://www.kraken.com/ja-jp/)                   |
@@ -37,12 +37,14 @@ Last Updated : Jul 14, 2021
 | Digial Asset Markets                       | [https://www.digiasset.co.jp/index.html](https://www.digiasset.co.jp/index.html) |
 | Mercury                                    | [https://coin-trade.cc/](https://coin-trade.cc/)                                 |
 | coinbook                                   | [https://www.coinbook.co.jp/](https://www.coinbook.co.jp/)                       |
-| Zaif                                       | [https://zaif.jp/?lang=en](https://zaif.jp/?lang=en)                             |
-| Sakura Exchange Bitcoin (former Xtheta)    | [https://sebc.co.jp/](https://sebc.co.jp/)                                       |
 | Tokyo Hash                                 |https://www.tokyohash.co.jp/                           |
-| Coinbase	                                 | https://www.coinbase.com/places/japan    |
-| Gaia	                                 |http://www.gaiacard.com/    |
-| Crypto Garage                                 |https://cryptogarage.co.jp/  |
+| Crypto Garage                              | [https://cryptogarage.co.jp/en](https://cryptogarage.co.jp/en)                   |
+| Coinbase Japan                             |https://www.coinbase.com/places/japan] (https://www.coinbase.com/places/japan)    |
+| Mercoin                                    | [https://about.mercoin.com/en/about/](https://about.mercoin.com/en/about/)       |
+| Caica Exchange                             | [https://www.caica.jp/en/](https://www.caica.jp/en/)                             |
+| Sakura Exchange Bitcoin (former Xtheta)    | [https://sebc.co.jp/](https://sebc.co.jp/)                                       |
+| Gaia	                                     |http://www.gaiacard.com/    |
+
 
 ## White list Tokens
 
