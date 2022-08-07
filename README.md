@@ -77,22 +77,22 @@ Zen
 CMS(comsa)  
 XYM  
 QASH  
-DOT 
+DOT  
 L-BTC(liquid btc)  
-ONT 
-ATOM 
-LNK 
-MKR 
-BOBA 
-MATIC 
-DOGE 
-XYM 
-JMY 
-PLT 
-SAND 
-OKB 
-ZPG 
-COT
+ONT  
+ATOM  
+LNK  
+MKR  
+BOBA  
+MATIC  
+DOGE  
+XYM  
+JMY  
+PLT  
+SAND  
+OKB  
+ZPG  
+COT 
 
 
 ## Reading list
