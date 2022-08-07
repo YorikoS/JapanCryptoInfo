@@ -60,7 +60,7 @@ BAT
 XEM  
 XLM  
 XTZ  
-QTU  
+QTUM
 OMG  
 ENJ  
 HT(Huobi)  
@@ -81,6 +81,18 @@ DOT
 L-BTC(liquid btc)  
 ONT  
 ATOM
+LNK
+MKR
+BOBA
+MATIC
+DOGE
+XYM
+JMY
+PLT
+SAND
+OKB
+ZPG
+COT
 
 
 ## Reading list
